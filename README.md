@@ -1,2 +1,2 @@
-# new-swe-g8
-Bootstrapped Website
+ITS 120L project
+
